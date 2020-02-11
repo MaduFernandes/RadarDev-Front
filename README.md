@@ -1,15 +1,11 @@
-## Scripts
+### Scripts
 
 Para executar o seu projeto você pode executar os comandos abaixo:
 
 ### `yarn start`
 
 Executa a aplicação no modo desenvolvimento.
-Abra o seu localhost.
-
-```
-http://localhost:3000
-```
+Abra o seu localhost [http://localhost:3000](http:localhost:3000).
 
 ### `yarn test`
 
